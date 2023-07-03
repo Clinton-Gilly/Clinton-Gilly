@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Clinton-Gilly
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning python 
+- 🌱 I’m good in python 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me clinton-gilly
 
