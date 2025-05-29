@@ -53,11 +53,36 @@ const clinton = new Developer();
 console.log(clinton.sayHi());
 ```
 
-<p align="center">
-  <a href="https://github.com/Clinton-Gilly/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Clinton-Gilly&theme=radical&hide_border=true&background=0D1117&stroke=0000&ring=60D9FA&fire=FFA500&currStreakLabel=60D9FA"/>
+---
+
+## 🏆 Achievements & Certifications
+
+<div align="center">
+  <h3>🎖️ Professional Certifications</h3>
+  
+  <!-- Credly Badge - Static Image Version -->
+  <a href="https://www.credly.com/badges/fdc6f5f6-550f-4ad8-8492-7fd2072be13d/public_url" target="_blank">
+    <img src="https://images.credly.com/size/150x150/images/badge-image.png" alt="Professional Certification" width="150" height="150" style="margin: 10px;"/>
   </a>
-</p>
+  
+  <!-- You can add more badges here -->
+  <a href="https://www.credly.com/badges/your-other-badge-id/public_url" target="_blank">
+    <img src="https://img.shields.io/badge/AWS-Certified-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Certified" style="margin: 10px;"/>
+  </a>
+  
+  <a href="https://www.credly.com/badges/your-other-badge-id/public_url" target="_blank">
+    <img src="https://img.shields.io/badge/Google_Cloud-Certified-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud Certified" style="margin: 10px;"/>
+  </a>
+  
+  <br><br>
+  
+  <!-- GitHub Trophies -->
+  <h3>🏅 GitHub Achievements</h3>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Clinton-Gilly&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
+  </a>
+  
+</div>
 
 ---
 
@@ -107,6 +132,13 @@ console.log(clinton.sayHi());
     <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Clinton-Gilly&layout=compact&langs_count=7&theme=algolia&hide_border=true"/>
   </a>
 </div>
+
+<!-- Contribution Calendar -->
+<p align="center">
+  <a href="https://github.com/Clinton-Gilly/">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Clinton-Gilly&theme=algolia&hide_border=true&layout=compact" alt="Coding Activity" width="100%">
+  </a>
+</p>
 
 <!-- Activity Graph -->
 <p align="center">
